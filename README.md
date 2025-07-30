@@ -247,6 +247,8 @@ Se tudo estiver correto, você verá a mensagem "Hello World!" ou "Hello SeuNome
         }
     ```
 
+    <img src="images/IntelliJ-ping-pong.png" alt="Spring Initializr" width="900">
+
 * Salve, rode o projeto novamente, e acesse:
         
     ```
@@ -266,6 +268,6 @@ Você pode acessar o repositório do projeto no GitHub para ver o código comple
 
 🎉 **Parabéns!**
 
-Você criou com sucesso seu primeiro projeto com Spring Boot usando o Spring Initializr! 👏
+Você criou com sucesso um projeto com Spring Boot usando o Spring Initializr! 👏
 
 Ao longo das aulas vamos continuar explorando e aprendendo novos recursos do Spring!
