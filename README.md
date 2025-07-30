@@ -21,6 +21,8 @@ Antes de começar, é importante ter instalado:
 Abra o navegador e acesse:
 👉 [https://start.spring.io](https://start.spring.io)
 
+    Spring Initializr é uma ferramenta online que ajuda a criar projetos Spring Boot de forma rápida e fácil, gerando toda a estrutura necessária para você começar a desenvolver.
+
 ### 2. Preencha as Informações do Projeto
 
 No formulário da página:
